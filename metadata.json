@@ -1,0 +1,5 @@
+{
+  "name": "BioSync AI",
+  "description": "A next-generation health tracker that fuses biometric data, family history, and emotional well-being with Google Gemini AI to provide holistic health insights, trend visualization, and personalized nutrition plans.",
+  "requestFramePermissions": []
+}
